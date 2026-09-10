@@ -14,7 +14,7 @@ We use **GPT-6 Astra** to guide real robots with **one video demonstration** and
 
 **No VLA. No WAM.**
 
-**No task-specific reinforcement learning. No DAgger.**
+**No RL, No DAgger.**
 
 ## One-Shot Plug Insertion
 
@@ -22,10 +22,10 @@ From a single video demonstration, the robot grasps a plug, aligns it with a pow
 
 <p align="center">
   <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">
-    <img src="assets/plug-insertion.gif" alt="A robot grasps a plug, aligns it with a power strip, inserts it, and withdraws." width="720">
+    <img src="assets/plug-insertion.gif" alt="Synchronized top and right wrist views of a robot grasping a plug, aligning it with a power strip, inserting it, and releasing it." width="960">
   </a>
   <br>
-  <sub>One video demonstration · 12× playback · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">Download MP4 ↗</a></sub>
+  <sub>Top view + right wrist view · 12× playback · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">Download MP4 ↗</a></sub>
 </p>
 
 ## More demos
@@ -54,3 +54,14 @@ From a single video demonstration, the robot grasps a plug, aligns it with a pow
 - **Broader tasks** — more contact-rich manipulation and longer task sequences.
 - **Systematic evaluation** — repeated trials, more models, and different forms of visual context.
 - **Public report** — results, failure cases, and what we learn about in-context robot learning.
+
+## Citation
+
+```bibtex
+@misc{chenghaha2026gptpolicy,
+  author = {{cheng-haha}},
+  title  = {{GPT-Policy}: One-Shot Video Demonstration for Real-World Robot Execution},
+  year   = {2026},
+  url    = {https://github.com/cheng-haha/GPT-Policy-Report}
+}
+```

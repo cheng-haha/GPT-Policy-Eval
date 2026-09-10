@@ -14,7 +14,7 @@
 
 **无需 VLA，无需 WAM。**
 
-**无需任务专用强化学习，无需 DAgger。**
+**无需 RL，无需 DAgger。**
 
 ## 插插排 · 单次视频示范
 
@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">
-    <img src="assets/plug-insertion.gif" alt="机器人抓取插头，对齐插排，插入后松爪撤离。" width="720">
+    <img src="assets/plug-insertion.gif" alt="顶部与右臂腕部视角同步展示：机器人抓取插头、对齐插排、插入并松爪。" width="960">
   </a>
   <br>
-  <sub>单次视频示范 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">下载 MP4 ↗</a></sub>
+  <sub>顶部视角 + 右臂腕部视角 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">下载 MP4 ↗</a></sub>
 </p>
 
 ## 更多演示
@@ -54,3 +54,14 @@
 - **拓展任务** — 更多接触操作与长程任务。
 - **系统评测** — 重复试验、更多模型，以及不同形式的视觉上下文。
 - **公开报告** — 分享结果、失败案例，以及对机器人上下文学习的观察。
+
+## 引用
+
+```bibtex
+@misc{chenghaha2026gptpolicy,
+  author = {{cheng-haha}},
+  title  = {{GPT-Policy}: One-Shot Video Demonstration for Real-World Robot Execution},
+  year   = {2026},
+  url    = {https://github.com/cheng-haha/GPT-Policy-Report}
+}
+```
