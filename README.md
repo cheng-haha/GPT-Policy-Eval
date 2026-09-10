@@ -10,7 +10,11 @@
 
 </div>
 
-We use **GPT-6 Astra** to guide real robots with **one video demonstration** and live visual feedback. **No VLA. No WAM. No task-specific reinforcement learning. No DAgger.**
+We use **GPT-6 Astra** to guide real robots with **one video demonstration** and live visual feedback.
+
+**No VLA. No WAM.**
+
+**No task-specific reinforcement learning. No DAgger.**
 
 ## One-Shot Plug Insertion
 
