@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPT-Policy
+# GPT-Policy-Eval
 
 **One-Shot Video Demonstration → 单次视频示范，驱动真实机器人**
 
@@ -21,11 +21,11 @@
 参考单次视频示范，机器人抓取插头、对齐插孔、插入并松爪，在接触过程中持续调整。
 
 <p align="center">
-  <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">
+  <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">
     <img src="assets/plug-insertion-top-and-right-wrist.gif" alt="顶部与右臂腕部视角同步展示：机器人抓取插头、对齐插排、插入并松爪。" width="960">
   </a>
   <br>
-  <sub>左：顶部视角 · 右：右臂腕部视角 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">下载 MP4 ↗</a></sub>
+  <sub>左：顶部视角 · 右：右臂腕部视角 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">下载 MP4 ↗</a></sub>
 </p>
 
 ## 更多演示
@@ -34,15 +34,15 @@
   <tr>
     <td width="50%" valign="top">
       <h3>找到被遮住的目标</h3>
-      <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/hidden-goal.mp4"><img src="assets/hidden-goal.gif" alt="机器人移开毛巾，露出粉色盘子，再将柠檬放入盘中。" width="100%"></a>
+      <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/hidden-goal.mp4"><img src="assets/hidden-goal.gif" alt="机器人移开毛巾，露出粉色盘子，再将柠檬放入盘中。" width="100%"></a>
       <p>移开毛巾、露出盘子、放入柠檬。一段视频示范，为机器人提供任务上下文。</p>
-      <sub>单次视频示范 · 8 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/hidden-goal.mp4">下载 MP4 ↗</a></sub>
+      <sub>单次视频示范 · 8 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/hidden-goal.mp4">下载 MP4 ↗</a></sub>
     </td>
     <td width="50%" valign="top">
       <h3>把图片变成现实</h3>
-      <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/visual-goal.mp4"><img src="assets/visual-goal.gif" alt="机器人参考目标照片，将五块彩色积木摆成 T 形。" width="100%"></a>
+      <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/visual-goal.mp4"><img src="assets/visual-goal.gif" alt="机器人参考目标照片，将五块彩色积木摆成 T 形。" width="100%"></a>
       <p>参考目标照片，将五块彩色积木摆成 T 形，并在操作中调整摆放位置。</p>
-      <sub>目标图片提示 · 24 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/visual-goal.mp4">下载 MP4 ↗</a></sub>
+      <sub>目标图片提示 · 24 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Eval/raw/refs/heads/main/assets/visual-goal.mp4">下载 MP4 ↗</a></sub>
     </td>
   </tr>
 </table>
@@ -57,9 +57,9 @@
 ## 引用
 
 ```bibtex
-@misc{chenghaha2026gptpolicy,
+@misc{chenghaha2026gptpolicyeval,
   author = {{cheng-haha}},
   year   = {2026},
-  url    = {https://github.com/cheng-haha/GPT-Policy-Report}
+  url    = {https://github.com/cheng-haha/GPT-Policy-Eval}
 }
 ```
