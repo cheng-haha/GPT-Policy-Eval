@@ -21,11 +21,11 @@
 参考单次视频示范，机器人抓取插头、对齐插孔、插入并松爪，在接触过程中持续调整。
 
 <p align="center">
-  <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">
-    <img src="assets/plug-insertion.gif" alt="顶部与右臂腕部视角同步展示：机器人抓取插头、对齐插排、插入并松爪。" width="960">
+  <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">
+    <img src="assets/plug-insertion-top-and-right-wrist.gif" alt="顶部与右臂腕部视角同步展示：机器人抓取插头、对齐插排、插入并松爪。" width="960">
   </a>
   <br>
-  <sub>顶部视角 + 右臂腕部视角 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">下载 MP4 ↗</a></sub>
+  <sub>左：顶部视角 · 右：右臂腕部视角 · 12 倍速 · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">下载 MP4 ↗</a></sub>
 </p>
 
 ## 更多演示

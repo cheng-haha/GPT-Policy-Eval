@@ -21,11 +21,11 @@ We use **GPT-6 Astra** to guide real robots with **one video demonstration** and
 From a single video demonstration, the robot grasps a plug, aligns it with a power strip, inserts it, and releases it, adjusting through contact.
 
 <p align="center">
-  <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">
-    <img src="assets/plug-insertion.gif" alt="Synchronized top and right wrist views of a robot grasping a plug, aligning it with a power strip, inserting it, and releasing it." width="960">
+  <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">
+    <img src="assets/plug-insertion-top-and-right-wrist.gif" alt="Synchronized top and right wrist views of a robot grasping a plug, aligning it with a power strip, inserting it, and releasing it." width="960">
   </a>
   <br>
-  <sub>Top view + right wrist view · 12× playback · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion.mp4">Download MP4 ↗</a></sub>
+  <sub>Left: top view · Right: right wrist view · 12× playback · <a href="https://github.com/cheng-haha/GPT-Policy-Report/raw/refs/heads/main/assets/plug-insertion-top-and-right-wrist.mp4">Download MP4 ↗</a></sub>
 </p>
 
 ## More demos
