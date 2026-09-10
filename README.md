@@ -12,9 +12,16 @@
 
 We use **GPT-6 Astra** to guide real robots with **one video demonstration** and live visual feedback.
 
-**No VLA. No WAM.**
-
-**No RL, No DAgger.**
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="240" height="80"><strong>No VLA</strong></td>
+    <td align="center" valign="middle" width="240" height="80"><strong>No WAM</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="240" height="80"><strong>No RL</strong></td>
+    <td align="center" valign="middle" width="240" height="80"><strong>No DAgger</strong></td>
+  </tr>
+</table>
 
 ## One-Shot Plug Insertion
 

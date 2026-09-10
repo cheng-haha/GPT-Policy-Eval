@@ -12,9 +12,16 @@
 
 我们使用 **GPT-6 Astra**，让真实机器人参考**一段视频示范**，结合实时视觉反馈执行任务。
 
-**无需 VLA，无需 WAM。**
-
-**无需 RL，无需 DAgger。**
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="240" height="80"><strong>无需 VLA</strong></td>
+    <td align="center" valign="middle" width="240" height="80"><strong>无需 WAM</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="240" height="80"><strong>无需 RL</strong></td>
+    <td align="center" valign="middle" width="240" height="80"><strong>无需 DAgger</strong></td>
+  </tr>
+</table>
 
 ## 插插排 · 单次视频示范
 
