@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPT-Policy · GPT-6 Astra
+# GPT-Policy
 
 **One-Shot Video Demonstration → 单次视频示范，驱动真实机器人**
 
