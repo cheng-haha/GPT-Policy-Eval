@@ -49,11 +49,10 @@ From a single video demonstration, the robot grasps a plug, aligns it with a pow
 
 <sub>Selected individual trials, accelerated for presentation. Broader evaluation is ongoing.</sub>
 
-## What's next
+## Directions to explore
 
 - **Broader tasks** — more contact-rich manipulation and longer task sequences.
 - **Systematic evaluation** — repeated trials, more models, and different forms of visual context.
-- **Public report** — results, failure cases, and what we learn about in-context robot learning.
 
 ## Citation
 
