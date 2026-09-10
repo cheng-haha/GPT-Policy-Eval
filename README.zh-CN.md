@@ -60,7 +60,6 @@
 ```bibtex
 @misc{chenghaha2026gptpolicy,
   author = {{cheng-haha}},
-  title  = {{GPT-Policy}: One-Shot Video Demonstration for Real-World Robot Execution},
   year   = {2026},
   url    = {https://github.com/cheng-haha/GPT-Policy-Report}
 }
