@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPT-Policy
+# GPT-Policy · GPT-6 Astra
 
 **One-Shot Video Demonstration → 单次视频示范，驱动真实机器人**
 
@@ -10,7 +10,7 @@
 
 </div>
 
-我们探索通用多模态智能体如何参考**一段视频示范**，结合实时视觉反馈完成机器人任务。**无需任务专用强化学习，无需 DAgger。**
+我们使用 **GPT-6 Astra**，让真实机器人参考**一段视频示范**，结合实时视觉反馈执行任务。**无需 VLA，无需 WAM，无需任务专用强化学习，无需 DAgger。**
 
 ## 插插排 · 单次视频示范
 

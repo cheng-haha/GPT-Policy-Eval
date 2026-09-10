@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPT-Policy
+# GPT-Policy · GPT-6 Astra
 
 **One-Shot Video Demonstration → Real-World Robot Execution**
 
@@ -10,7 +10,7 @@
 
 </div>
 
-We explore robot learning from **one video demonstration**, using general-purpose multimodal agents and live visual feedback. **No task-specific reinforcement learning. No DAgger.**
+We use **GPT-6 Astra** to guide real robots with **one video demonstration** and live visual feedback. **No VLA. No WAM. No task-specific reinforcement learning. No DAgger.**
 
 ## One-Shot Plug Insertion
 
