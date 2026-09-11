@@ -87,7 +87,9 @@
 
 ```bibtex
 @misc{chenghaha2026gptpolicyeval,
-  author = {{cheng-haha}},
+  author = {Tong Wu and Ye Fang and Weizhi Xue and Shuai Yang and
+            Rongze Wang and Dongzhou Cheng and Xingwu Zhang and YiXuan Li and
+            Taoran Yi and Sylvie Feng and Gengxiong Zhuang},
   year   = {2026},
   url    = {https://github.com/cheng-haha/GPT-Policy-Eval}
 }
