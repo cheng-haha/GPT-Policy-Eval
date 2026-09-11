@@ -56,8 +56,9 @@ From a single video demonstration, the robot grasps a plug, aligns it with a pow
 
 <sub>Selected individual trials, accelerated for presentation. Broader evaluation is ongoing.</sub>
 
-## Directions to explore
+## What we'll do next
 
+- **Code release** — prepare and share demo and evaluation code, with usage examples.
 - **Broader tasks** — more contact-rich manipulation and longer task sequences.
 - **Systematic evaluation** — repeated trials, more models, and different forms of visual context.
 
