@@ -6,7 +6,7 @@
 
 <sub>研究预览 · 真实机器人演示</sub>
 
-[English](README.md) · **简体中文**
+[English](README.md) · **简体中文** · [X ↗](https://x.com/z_code68632/status/2098401554676269236)
 
 </div>
 

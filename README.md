@@ -6,7 +6,7 @@
 
 <sub>Research preview · Real robot demonstrations</sub>
 
-**English** · [简体中文](README.zh-CN.md)
+**English** · [简体中文](README.zh-CN.md) · [X ↗](https://x.com/z_code68632/status/2098401554676269236)
 
 </div>
 
