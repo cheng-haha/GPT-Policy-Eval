@@ -56,6 +56,27 @@
 
 <sub>以上为选取的单次试验，视频已加速展示。更广泛的评测仍在进行中。</sub>
 
+## 关键瞬间
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/plug-insertion-keyframe.png"><img src="assets/plug-insertion-keyframe.png" alt="插插排关键帧，包含顶部和腕部视角；右腕近景展示插头插入插排。" width="100%"></a>
+      <strong>插入插头</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/hidden-goal-keyframe.png"><img src="assets/hidden-goal-keyframe.png" alt="遮挡操作关键帧：毛巾已移开，机器人将柠檬放入露出的盘子。" width="100%"></a>
+      <strong>移开遮挡，放入柠檬</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/visual-goal-keyframe.png"><img src="assets/visual-goal-keyframe.png" alt="按图操作关键帧：画面同时展示目标图片和桌面上由五块彩色积木组成的 T 形。" width="100%"></a>
+      <strong>按图摆放</strong>
+    </td>
+  </tr>
+</table>
+
+<sub>截图取自演示合集，点击图片可放大查看。</sub>
+
 ## 我们接下来做什么
 
 - **开放代码** — 整理并开放演示与评测代码，附使用示例。

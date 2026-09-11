@@ -56,6 +56,27 @@ From a single video demonstration, the robot grasps a plug, aligns it with a pow
 
 <sub>Selected individual trials, accelerated for presentation. Broader evaluation is ongoing.</sub>
 
+## Key moments
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/plug-insertion-keyframe.png"><img src="assets/plug-insertion-keyframe.png" alt="Plug insertion keyframe with top and wrist camera views; the right wrist view shows the plug seated in the power strip." width="100%"></a>
+      <strong>Plug insertion</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/hidden-goal-keyframe.png"><img src="assets/hidden-goal-keyframe.png" alt="Occlusion-aware manipulation keyframe: the towel has been moved aside and the lemon is lowered into the revealed plate." width="100%"></a>
+      <strong>Reveal and place</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="assets/visual-goal-keyframe.png"><img src="assets/visual-goal-keyframe.png" alt="Goal-image manipulation keyframe showing the reference image and five colored blocks arranged in a T on the table." width="100%"></a>
+      <strong>Match the goal</strong>
+    </td>
+  </tr>
+</table>
+
+<sub>Keyframes from the demo overview. Click an image to enlarge.</sub>
+
 ## What we'll do next
 
 - **Code release** — prepare and share demo and evaluation code, with usage examples.
